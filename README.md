@@ -4,7 +4,7 @@ dohko-technology-architecture
 
 > 方案一  
 
-![方案一](http://static.runoob.com/images/runoob-logo.png)
+![方案一](https://github.com/Mr-LuXiaoHua/dohko-technology-architecture/blob/master/technology-architecture-01.png)
 
 ---
 本方案没有使用服务注册与发现，而是通过Nginx进行服务调用和转发。  
