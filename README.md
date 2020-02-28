@@ -1,13 +1,14 @@
 dohko-technology-architecture
 ---
-针对后台架构，探讨几套通用的技术架构方案
+针对中小公司后端服务开发，探讨一下通用的技术架构方案
 
 > 方案一  
 
 ![方案一](https://github.com/Mr-LuXiaoHua/dohko-technology-architecture/blob/master/technology-architecture-01.png)
 
 ---
-本方案没有使用服务注册与发现，而是通过Nginx进行服务调用和转发。
+
+
   
 关键部分说明：
 #### CDN
