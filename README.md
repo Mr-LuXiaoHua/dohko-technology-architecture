@@ -2,9 +2,9 @@ dohko-technology-architecture
 ---
 针对中小公司后端服务开发，探讨一下通用的技术架构方案
 
-> 方案一  
+> 方案 
 
-![方案一](https://github.com/Mr-LuXiaoHua/dohko-technology-architecture/blob/master/technology-architecture-01.png)
+![方案](https://github.com/Mr-LuXiaoHua/dohko-technology-architecture/blob/master/technology-architecture.png)
 
 ---
 
